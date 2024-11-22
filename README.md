@@ -18,12 +18,12 @@ Visit [KrazyKanban on Render](https://krazykanban.onrender.com/)
 
 ## Contributing
 
-TA Jili gave some code for the models/index.ts on the server side.
-Render
-GitHub
-Typescript
-React
-Node
+- TA Jili gave some code for the models/index.ts on the server side.
+- Render
+- GitHub
+- Typescript
+- React
+- Node
 
 ## License 
 
